@@ -14,3 +14,16 @@ export default {
   },
 };
 </script>
+
+
+<style>
+ @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+body {
+  background-color: #f2f2f2;
+}
+
+p {
+  font-family: 'Inter';
+}
+</style>
